@@ -16,7 +16,7 @@ The jQuery plugin which truncates text and adds "..." to the end if text has too
    <script src="jquery-trunc.min.js"></script>
    ```
 4. Call trunc(yourCharactersLimit):
-   ```html javascript
+   ```html
    <div class="getting-started">Text</div>
    <script>
      $(function () {
