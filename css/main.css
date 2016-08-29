@@ -1,0 +1,15 @@
+body {
+  font: 16px/1.5 sans-serif;
+}
+.news {
+  padding: 10px;
+}
+.invisible {
+  display: none;
+}
+.hellip {
+  font-weight: bold;
+}
+.hellip:hover {
+  font-weight: normal;
+}
